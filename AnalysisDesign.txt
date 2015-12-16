@@ -1,0 +1,110 @@
+Classes:
+
+This project features classes for Users, the User Database, 
+the Database of scores, and the Game itself.
+
+
+
+
+
+The User Class
+
+The user class has no public members. As the development of this project
+progressed, it became clear that it would be beneficial to allow access
+to all the attributes of a User publicly.
+
+the user class defines username, age, gender, email, and whether the
+user wants to recieve their score by email.
+
+there is a barebones constructor for users that initializes some base values
+to ensure no crashes occur.
+
+There is also a constructor that initializes a user with all the provided
+attributes.
+
+The user class also features an accessor method returning a boolean value
+indicating whether or not the user wants their score by email.
+
+
+
+
+
+The UserDB Class
+
+The userDB class defines and controls the user database. It features a private 
+vector that contains all the existing users to date.
+
+the userdb class has a constructor that reads in the users from users.txt and 
+adds them to the private vector.
+
+the userdb class features a method to get all the users, returning a copy of 
+the vector holding all the users.
+
+the userdb class features a method addUserToDB() as well as an overloaded operator
+(+) that adds a user to the database. This method also writes the users information
+to the appropriate file.
+
+the userdb class features a method removeUserFromDB() as well as an overloaded operator
+(-) that adds a user to the database. This method also removes the users information
+from the appropriate file.
+
+
+
+
+
+The Scores Class
+
+the scores class controls all the final scores of the players of the game. It features a 
+private map with strings as keys and a vector of integers as the value. This map holds 
+all the scores of users in the game.
+
+the class also contains a private vector of integers to hold the top scores in order. a 
+corresponding vector of strings holds the username of a player who acheived a score at a 
+certain index in the previous vector.
+
+publicly, the scores class has a constructor taking no arguments that reads in the scores
+from the file called scores.txt and maps them to the provate data structures.
+
+This class also has a method to add a new score by a user, which adds the score to both 
+the file as well as the private data structures.
+
+There are also accessor methods available publicly that return the private vectors above,
+useful for printing out the top 5 scores for the game.
+
+A public method also exists to get a vector of the recent scores for a particular user,
+which pulls the vector of scores corresponding to the requested user in the private map.
+
+
+
+The Game Class
+
+The game class defines the functionality for a play session of the game. It features a private
+variable for the start time of a round in the game (measured in seconds since the epoch). 
+It also has a private variable for the current score of a player.
+
+The game class also has a private map, featuring strings as keys and lists as values. The keys 
+are intended to be countries, and the list should be a list of cities.
+
+When the game is instantiated, the current score is set to zero. Game features a public method to 
+start the game, which, when called, maps the data from countriestocities.txt to the private map. 
+Play then proceeds inside of this method until the game ends. As each round starts, a country is 
+chosen at random from the map and it's cities are used for the round.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

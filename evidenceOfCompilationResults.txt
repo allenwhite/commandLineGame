@@ -1,0 +1,531 @@
+allen@~/Documents/c++_class/Project$ g++ -o project project.cpp ; ./project 
+
+
+------------------------------------------------------------------------
+geoBrain – Main Menu
+
+Select an option below
+
+1. Choose Username	2. New user       	3. Remove user    	4. Scores         	5. Exit           	6. Help
+
+Enter number of choice: 	6
+
+
+------------------------------------------------------------------------
+geoBrain
+
+When the game starts, it will show the user an initial list of three (3) cities from a country randomly selected. The user then should pick one of them.
+In the next pass, the game will show four cities, the same three from the previous phase plus a new one, all of them in a random order. The user should pick a second city different from the one picked previously, to move to the next pass.
+In the third pass, the game will show the user five cities, the same four from the previous phase plus a new one, in a random order, again the user should pick a third city different from the ones picked previously to move to the next pass.
+The program keeps going through new passes adding one city at a time, as far as the user does not pick one city already selected.
+When the user selects a city already picked in a previous pass, the first round ends, a score is calculated, shown in the screen and saved in the users statistics. There will be three rounds for a given country, so the same process starts all over again.
+There is also a time limit of 120 seconds (2 minutes) for each round, so if the player keeps picking new cities correctly when it reaches two minutes, the round must end, show the score and proceed with the next round until complete three rounds.
+
+
+
+
+
+------------------------------------------------------------------------
+geoBrain – Main Menu
+
+Select an option below
+
+1. Choose Username	2. New user       	3. Remove user    	4. Scores         	5. Exit           	6. Help
+
+Enter number of choice: 	1
+
+
+------------------------------------------------------------------------
+geoBrain
+
+Select a user below.
+
+1.	Cancel
+
+Enter user number: 	1
+
+Canceled.
+
+
+------------------------------------------------------------------------
+geoBrain – Main Menu
+
+Select an option below
+
+1. Choose Username	2. New user       	3. Remove user    	4. Scores         	5. Exit           	6. Help
+
+Enter number of choice: 	2
+
+
+------------------------------------------------------------------------
+geoBrain – New user
+
+Enter user name:          		allenwhite
+Enter age:                		w
+Not an integer. Try again
+Enter age:                		22
+Enter gender m/f:         		w
+Invalid input.
+Enter gender m/f:         		m
+Enter email:              		w
+Invalid input.
+Enter email:              		awhite23@rocketmail.com
+Send results by mail? y/n:		w
+Invalid input.
+Send results by mail? y/n:		n
+
+
+Weclome, allenwhite! Press enter to start your game.
+
+New Round!
+ready?
+
+
+
+
+------------------------------------------------------------------------
+geoBrain
+
+Select a city from Kenya			Time Remaining:120
+------------------------------------------------------------------------
+1. Isiolo
+2. Dadaab
+3. Kisii
+4. Watamu
+5. Shimoni
+Enter city number: 	1
+
+good answer! 
+
+
+------------------------------------------------------------------------
+geoBrain
+
+Select a city from Kenya			Time Remaining:115
+------------------------------------------------------------------------
+1. Shimoni
+2. Kisii
+3. Isiolo
+4. Dadaab
+5. Watamu
+6. Makindu
+Enter city number: 	1
+
+good answer! 
+
+
+------------------------------------------------------------------------
+geoBrain
+
+Select a city from Kenya			Time Remaining:113
+------------------------------------------------------------------------
+1. Isiolo
+2. Kisii
+3. Diani
+4. Watamu
+5. Shimoni
+6. Dadaab
+7. Makindu
+Enter city number: 	2
+
+good answer! 
+
+
+------------------------------------------------------------------------
+geoBrain
+
+Select a city from Kenya			Time Remaining:107
+------------------------------------------------------------------------
+1. Kisii
+2. Shimoni
+3. Isiolo
+4. Dadaab
+5. Diani
+6. Makindu
+7. Watamu
+8. Busia
+Enter city number: 	8
+
+good answer! 
+
+
+------------------------------------------------------------------------
+geoBrain
+
+Select a city from Kenya			Time Remaining:88
+------------------------------------------------------------------------
+1. Shimoni
+2. Dadaab
+3. Emali
+4. Diani
+5. Busia
+6. Makindu
+7. Watamu
+8. Kisii
+9. Isiolo
+Enter city number: 	7
+
+good answer! 
+
+
+------------------------------------------------------------------------
+geoBrain
+
+Select a city from Kenya			Time Remaining:42
+------------------------------------------------------------------------
+1. Shimoni
+2. Watamu
+3. Dadaab
+4. Isiolo
+5. Kisii
+6. Busia
+7. Makindu
+8. Emali
+9. Diani
+10. Kajiado
+Enter city number: 	10
+
+good answer! 
+
+
+------------------------------------------------------------------------
+geoBrain
+
+Select a city from Kenya			Time Remaining:8
+------------------------------------------------------------------------
+1. Dadaab
+2. Busia
+3. Watamu
+4. Shimoni
+5. Isiolo
+6. Emali
+7. Makindu
+8. Kisii
+9. Diani
+10. Kajiado
+Enter city number: 	1
+
+good answer! 
+
+
+------------------------------------------------------------------------
+geoBrain
+
+Select a city from Kenya			Time Remaining:2
+------------------------------------------------------------------------
+1. Isiolo
+2. Emali
+3. Shimoni
+4. Litein
+5. Kisii
+6. Makindu
+7. Busia
+8. Dadaab
+9. Diani
+10. Kajiado
+11. Watamu
+Enter city number: 	1
+
+outta time!
+Current score: 161
+New Round!
+ready?
+
+
+
+------------------------------------------------------------------------
+geoBrain
+
+Select a city from Kenya			Time Remaining:120
+------------------------------------------------------------------------
+1. Kitui
+2. Mumias
+3. Litein
+4. Beach
+5. Lodwar
+Enter city number: 	2
+
+good answer! 
+
+
+------------------------------------------------------------------------
+geoBrain
+
+Select a city from Kenya			Time Remaining:117
+------------------------------------------------------------------------
+1. Mumias
+2. Kitui
+3. Beach
+4. Litein
+5. Lodwar
+6. Emali
+Enter city number: 	5
+
+good answer! 
+
+
+------------------------------------------------------------------------
+geoBrain
+
+Select a city from Kenya			Time Remaining:100
+------------------------------------------------------------------------
+1. Litein
+2. Kitui
+3. Beach
+4. Mumias
+5. Emali
+6. Nyahururu
+7. Lodwar
+Enter city number: 	5
+
+outta time!
+Current score: 207
+New Round!
+ready?
+
+
+
+------------------------------------------------------------------------
+geoBrain
+
+Select a city from Iran			Time Remaining:120
+------------------------------------------------------------------------
+1. Amol
+2. Babolsar
+3. Ahar
+4. Mianej
+5. Maragheh
+Enter city number: 	1
+
+good answer! 
+
+
+------------------------------------------------------------------------
+geoBrain
+
+Select a city from Iran			Time Remaining:118
+------------------------------------------------------------------------
+1. Amol
+2. Maragheh
+3. Ahar
+4. Sabzevar
+5. Mianej
+6. Babolsar
+Enter city number: 	1
+
+incorrect! 
+
+
+------------------------------------------------------------------------
+geoBrain
+
+Select a city from Iran			Time Remaining:116
+------------------------------------------------------------------------
+1. Amol
+2. Babolsar
+3. Ahar
+4. Sabzevar
+5. Maragheh
+6. Mianej
+Enter city number: 	6
+
+good answer! 
+
+
+------------------------------------------------------------------------
+geoBrain
+
+Select a city from Iran			Time Remaining:113
+------------------------------------------------------------------------
+1. Ahar
+2. Mianej
+3. Babolsar
+4. Maragheh
+5. Amol
+6. Meyaneh
+7. Sabzevar
+Enter city number: 	7
+
+good answer! 
+
+
+------------------------------------------------------------------------
+geoBrain
+
+Select a city from Iran			Time Remaining:109
+------------------------------------------------------------------------
+1. Mianej
+2. Meybod
+3. Maragheh
+4. Meyaneh
+5. Amol
+6. Babolsar
+7. Sabzevar
+8. Ahar
+Enter city number: 	7
+
+incorrect! 
+
+
+------------------------------------------------------------------------
+geoBrain
+
+Select a city from Iran			Time Remaining:61
+------------------------------------------------------------------------
+1. Meyaneh
+2. Mianej
+3. Amol
+4. Ahar
+5. Babolsar
+6. Meybod
+7. Sabzevar
+8. Maragheh
+Enter city number: 	2
+
+incorrect! 
+
+
+------------------------------------------------------------------------
+geoBrain
+
+Select a city from Iran			Time Remaining:34
+------------------------------------------------------------------------
+1. Amol
+2. Meybod
+3. Babolsar
+4. Sabzevar
+5. Ahar
+6. Meyaneh
+7. Maragheh
+8. Mianej
+Enter city number: 	2
+
+good answer! 
+
+
+------------------------------------------------------------------------
+geoBrain
+
+Select a city from Iran			Time Remaining:14
+------------------------------------------------------------------------
+1. Meybod
+2. Sabzevar
+3. Ahar
+4. Bandar
+5. Mianej
+6. Amol
+7. Meyaneh
+8. Babolsar
+9. Maragheh
+Enter city number: 	9
+
+outta time!
+Current score: 299
+
+
+GAME OVER
+
+
+
+------------------------------------------------------------------------
+geoBrain – Main Menu
+
+Select an option below
+
+1. Choose Username	2. New user       	3. Remove user    	4. Scores         	5. Exit           	6. Help
+
+Enter number of choice: 	4
+
+
+------------------------------------------------------------------------
+geoBrain
+
+Last 1 scores for allenwhite
+
+299 XXXXX
+
+User ranking -- Highest Scores
+
+1.	299		allenwhite
+
+
+
+
+------------------------------------------------------------------------
+geoBrain – Main Menu
+
+Select an option below
+
+1. Choose Username	2. New user       	3. Remove user    	4. Scores         	5. Exit           	6. Help
+
+Enter number of choice: 	1
+
+
+------------------------------------------------------------------------
+geoBrain
+
+Select a user below.
+
+1.	allenwhite
+2.	Cancel
+
+Enter user number: 	2
+
+Canceled.
+
+
+------------------------------------------------------------------------
+geoBrain – Main Menu
+
+Select an option below
+
+1. Choose Username	2. New user       	3. Remove user    	4. Scores         	5. Exit           	6. Help
+
+Enter number of choice: 	3
+
+
+------------------------------------------------------------------------
+geoBrain
+
+Select a user to remove below.
+
+1.	allenwhite
+2.	Cancel
+
+Enter user number: 	1
+
+Are you sure you want to erase allenwhite? Press enter to confirm.
+
+
+
+------------------------------------------------------------------------
+geoBrain – Main Menu
+
+Select an option below
+
+1. Choose Username	2. New user       	3. Remove user    	4. Scores         	5. Exit           	6. Help
+
+Enter number of choice: 	1
+
+
+------------------------------------------------------------------------
+geoBrain
+
+Select a user below.
+
+1.	Cancel
+
+Enter user number: 	1
+
+Canceled.
+
+
+------------------------------------------------------------------------
+geoBrain – Main Menu
+
+Select an option below
+
+1. Choose Username	2. New user       	3. Remove user    	4. Scores         	5. Exit           	6. Help
+
+Enter number of choice: 	5
+allen@~/Documents/c++_class/Project$ 

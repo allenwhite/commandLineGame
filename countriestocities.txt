@@ -1,0 +1,529 @@
+Azerbaijan@@@
+	Agdam
+	Agdash
+	Agjabadi
+	Agstafa
+	Agsu
+	Astara
+	Babek
+	Baku (capital)
+	Balakən
+	Barda
+	Beylagan
+	Bilasuvar
+	Dashkasan
+	Davachi
+	Fuzuli
+	Gadabay
+	Ganja
+	Goranboy
+	Goychay
+	Goygol, formerly Khanlar (Xanlar)
+	Hajigabul
+	Imishli
+	Ismailli
+	Jabrayil
+	Julfa
+	Kalbajar
+	Karabakh
+	Khachmaz
+	Khojavend
+	Khyrdalan
+	Kurdamir
+	Lankaran
+	Lerik
+	Masally
+	Mingacevir
+	Nakhichevan
+	Naftalan
+	Neftchala
+	Oguz
+	Ordubad
+	Qabala
+	Qakh
+	Qazakh
+	Quba
+	Qubadli
+	Qusar
+	Saatly
+	Sabirabad
+	Shakhbuz
+	Shaki
+	Shamakhy
+	Shamkir
+	Sharur
+	Shirvan
+	Siazan
+	Sumqayit
+	Tartar
+	Tovuz
+	Ujar
+	Yardimly
+	Yevlakh
+	Zaqatala
+	Zardab
+	Zangilan
+Kenya@@@
+	Baragoi
+	Bungoma
+	Busia
+	Butere
+	Dadaab
+	Diani Beach
+	Eldoret
+	Emali
+	Embu
+	Garissa
+	Gede
+	Hola
+	Homa Bay
+	Isiolo
+	Kitui
+	Kibwezi
+	Makindu
+	Wote
+	Mutomo
+	Kajiado
+	Kakamega
+	Kakuma
+	Kapenguria
+	Kericho
+	Kiambu
+	Kilifi
+	Kisii
+	Kisumu
+	Kitale
+	Lamu
+	Langata
+	Litein
+	Lodwar
+	Lokichoggio
+	Londiani
+	Loyangalani
+	Machakos
+	Malindi
+	Mandera
+	Maralal
+	Marsabit
+	Meru
+	Mombasa
+	Moyale
+	Mumias
+	Muranga
+	Nairobi
+	Naivasha
+	Nakuru
+	Namanga
+	Nanyuki
+	Naro Moru
+	Narok
+	Nyahururu
+	Nyeri
+	Ruiru
+	Shimoni
+	Takaungu
+	Thika
+	Vihiga
+	Voi
+	Wajir
+	Watamu
+	Webuye
+	Wundanyi
+Samoa@@@
+	Afega
+	Alafua
+	Alamagoto
+	Aleipata
+	Amaile
+	Aopo
+	Apai
+	Apolima Tai
+	Apolima Uta
+	Asaga
+	Asau (Samoa) disambiguation
+	Auala
+	A'ufaga
+	Aele
+	Elisefou
+	Faiaai
+	Faatoia
+	Faga
+	Fagali'i
+	Fagaloa
+	Fagamalo
+	Falealili
+	Falealupo
+	Faleapuna
+	Faleasiu
+	Faleatiu
+	Falefa
+	Falelatai
+	Falelima
+	Fale'olo
+	Faleseela
+	faleaitu
+	Faletagaloa
+	Faleu
+	Faleula
+	Falevao
+	Faleapuna
+	Fasito'otai
+	Fasito'iuta
+	Fatausi
+	Foailuga
+	Foailalo
+	Fogapoa
+	Fogasavai'i
+	Fogatuli
+	Fuailoloo
+	Fusi
+	Gataivai
+	Iva
+	Lalomauga
+	Lago
+	Lalomalava
+	Lalomanu
+	Lalovaea
+	Laulii
+	Leauva'a
+	Lefaga
+	lefagoalii
+	Lepa
+	Letava
+	Letogo
+	Leiifiifi
+	Leufisa
+	Leulumoega
+	Leulumoega Fou
+	Lotofaga
+	Luatuanu'u
+	Lufilufi
+	Magiagi
+	Malie
+	Malifa
+	Malua
+	Manase
+	Manono
+	Manunu
+	Matafaa
+	Matatufu
+	Matautu
+	Matautu, Falealili
+	Matautu, Lefaga
+	Matautu-tai
+	Matautu-uta
+	Moata'a
+	Moamoa
+	Motootua
+	Mulinu'u
+	Musumusu
+	Mutiatele
+	Neiafu
+	Nofoali'i
+	Palauli
+	Patamea
+	Poutasi
+	Puapua
+	Pesega
+	Saaga
+	Saasaai
+	Saipipi
+	Safotu
+	Safotulafai
+	Safune
+	Sagone
+	Salailua
+	Salamumu
+	Salani
+	Saleamua
+	Saleaula
+	Saleilua
+	Saleimoa
+	Salelologa
+	Salua
+	Samamea
+	Samatau
+	Samusu
+	Saoluafata
+	Sapapali'i
+	Sapunaoa
+	Sapo'e
+	Satalo
+	Sataoa
+	Satapuala
+	Sataua
+	Sato'alepai
+	Satupa'itea
+	Satuimalufilufi
+	Sauniatu
+	Savalalo
+	Savaia
+	Siuniu
+	Siumu
+	Sinamoga
+	Sogi
+	Solosolo
+	Tafatafa
+	Tafua
+	Tafaigata
+	Tafitoala
+	Tafuna
+	Taga
+	Tanugamanono
+	Tapueleele
+	Tuana'i
+	Tufulele
+	Uafato
+	Utualii
+	utulaelae
+	Vaiala
+	Vaigaga
+	Vailima
+	Vailoa
+	Vailu'utai
+	Vaimoso
+	Vaiola
+	Vaisala
+	Vaisigano
+	Vaiee
+	Vaito'omuli
+	Vaitele
+	Vaiusu
+	Vaivase Tai
+	Vaivase Uta
+	Vavau
+	Vailele
+	Vaipu'a
+	Vaipuna
+	Vaoala
+	Ulutogia
+	Utuali'i
+	Vaitogi
+	Aasufou
+	Nua ma Se'etaga
+	Toamua
+	Puipaa
+	Sagapu
+	Fagagasi
+	Salu
+	Saina
+	Tia'vea
+	Saleapaga
+Barbados@@@
+	Atlantic Shores
+	Bannatyne
+	Blue Waters
+	Boarded Hall
+	Briggs
+	Callendar
+	Cane Vale
+	Chancery Lane
+	Charnocks
+	Clapham
+	Hastings
+	Maxwell
+	Maxwell Hill
+	Newton Terrace
+	Oistins
+	Rockley
+	Scarborough
+	Seawell
+	Saint Lawrence
+	Welches
+	Woman's Bay
+	Worthing
+	Wotton
+	Yorkshire
+	Barclays Park
+	Baxters
+	Belleplaine
+	Breedy's
+	Bruce Vale
+	Chalky Mount
+	Cherry Tree Hill
+	Greenland
+	Hillaby
+	Turner's Hall Woods
+	White Hill
+	Bairds
+	Belair
+	Brighton
+	Bulkeley
+	Bulkely Factory
+	Campaign Castle
+	Church View
+	Drax Hall
+	Ellerton
+	Gun Hill
+	Apes Hill
+	Appleby
+	Carlton
+	Holetown
+	Lower Carlton
+	Mount Standfast
+	Thorpe
+	Upper Carlton
+	Bath
+	Bowmanston
+	Carter
+	Cherry Grove
+	Kendal
+	Saint John
+	Saint Marks
+	Airy Hill
+	Bathsheba
+	Bissex
+	Blackmans
+	Bonwell
+	Branchbury
+	Buckden House
+	Canefield
+	Castle Grant
+	Cattlewash
+	Chimborazo
+	Hackleton's Cliff
+Iran@@@
+	Abadan
+	Abadeh
+	Abyek
+	Abhar
+	Abyaneh
+	Ahar
+	Ahvaz
+	Alavicheh
+	Aliabad
+	Aligoodarz
+	Alvand
+	Amlash
+	Amol
+	Andimeshk
+	Andisheh
+	Arak
+	Ardabil
+	Ardakan
+	Asalem
+	Asalouyeh
+	Ashkezar
+	Ashlagh
+	Ashtiyan
+	Astaneh Arak
+	Astaneh-e Ashrafiyyeh
+	Astara
+	Babol
+	Babolsar
+	Baharestan
+	Balov
+	Bardaskan
+	Bam
+	Bampur
+	Bandar Abbas
+	Bandar Anzali
+	Bandar Charak
+	Bandar Imam
+	Bandar Lengeh
+	Bandar Torkman
+	Baneh
+	Bastak
+	Behbahan
+	Behshahr
+	Bijar
+	Birjand
+	Bistam
+	Bojnourd
+	Bonab
+	Borazjan
+	Borujerd
+	Bukan
+	Bushehr
+	Kahnuj
+	Kamyaran
+	Kangan
+	Kangavar
+	Karaj
+	Kashan
+	Kashmar
+	Kazeroun
+	Kerman
+	Kermanshah
+	Khalkhal
+	Khalkhāl
+	Khomein
+	Khomeynishahr
+	Khonj
+	Khormuj
+	Khorramabad
+	Khorramshahr
+	Khorashad
+	Koumleh
+	Khvoy
+	Kilan
+	Kish
+	Koker
+	Kosar
+	Kordkuy
+	Kong
+	Kuhdasht
+	Mahabad
+	Mahan
+	Mahshahr
+	Majlesi
+	Maku
+	Malard
+	Malayer
+	Manjil
+	Manoojan
+	Maragheh
+	Marand
+	Marivan
+	Marvdasht
+	Masal
+	Mashhad
+	Masjed Soleyman
+	Mehran
+	Meshkinshahr
+	Meyaneh
+	Meybod
+	Miandoab
+	Mianeh
+	Mianeh
+	Mianeh-ye Bardangan
+	Mianej
+	Minab
+	Minoodasht
+	Mohajeran
+	Sabzevar
+	Sadra
+	Sahand
+	Salmas
+	Sanandaj
+	Saqqez
+	Sarab
+	Sarableh
+	Sarakhs
+	Saravan
+	Sardasht
+	Sardasht
+	Sardasht
+	Sari
+	Sarvestan
+	Saveh
+	Senejan
+	Semnan
+	Shabestar
+	Shaft
+	Shahinshahr
+	Shahr-e Kord
+	Shahrezā
+	Shahriar
+	Shahroud
+	Shahsavar
+	Shiraz
+	Shirvan
+	Shushtar
+	Siahkal
+	Sirjan
+	Sourmagh
+	Sowme'e-Sara
+	Sarpole Zahab
+	Shahriar
+@@@
